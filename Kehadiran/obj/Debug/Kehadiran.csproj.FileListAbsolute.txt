@@ -1,0 +1,17 @@
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.csproj.AssemblyReference.cache
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.Forms.FormLogin.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.Properties.Resources.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.csproj.GenerateResource.cache
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.csproj.CoreCompileInputs.cache
+C:\Users\Mamet\source\repos\Kehadiran\bin\Debug\Kehadiran.exe.config
+C:\Users\Mamet\source\repos\Kehadiran\bin\Debug\Kehadiran.exe
+C:\Users\Mamet\source\repos\Kehadiran\bin\Debug\Kehadiran.pdb
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.exe
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.pdb
+C:\Users\Mamet\source\repos\Kehadiran\bin\Debug\Attendance.dll
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.csproj.CopyComplete
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.Forms.FormForgotPassword.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.Forms.FormMain.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.UserControlKehadiran.UserControlDashboard.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.UserControlKehadiran.UserControlKelas.resources
+C:\Users\Mamet\source\repos\Kehadiran\obj\Debug\Kehadiran.PAL.UserControlKehadiran.UserControlTambahPelajar.resources
